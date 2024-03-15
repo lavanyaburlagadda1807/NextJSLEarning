@@ -1,0 +1,3 @@
+In react we will load the custom fonts dynamically and this might effect the UI
+
+In next js it will download the font while build itself so extra fetching wont hapend
